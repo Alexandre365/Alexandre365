@@ -3,8 +3,8 @@
   - Estudando React.js
  <div align="center">
   <a href="https://github.com/Alexandre365">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre365&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre365&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alexandre365&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre365&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <div  align="center"><br>
   <img align="center" alt="HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
