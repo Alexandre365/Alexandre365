@@ -7,9 +7,3 @@
 - 🎓 Technologist in systems analysis and development - <a href="https://www.cps.sp.gov.br/](https://www.vemprafam.com.br/"> Fam - Faculdade das américas</a> <br>
 - 🎓 technical systems development - <a href="https://www.cps.sp.gov.br/"> Centro Paula Souza</a> <br>
 - 📫 How to reach me: tube998@gmail.com<br><br>
-
-
-<p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre365&langs_count=8&theme=dark&") width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandre365&theme=dark" height="135" width="400">
- </p>
